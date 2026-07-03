@@ -20,8 +20,8 @@ A simple Weather Forecast web application built using **HTML, CSS, and JavaScrip
 
 ## 📷 Screenshot
 
-![Weather App](<img width="370" height="345" alt="Screenshot 2026-07-03 154159" src="https://github.com/user-attachments/assets/29687ed5-c87b-45c4-b26f-aca3cbe3a8e5" />
-)
+<img width="370" height="345" alt="Screenshot 2026-07-03 154159" src="https://github.com/user-attachments/assets/40c84a4f-9ddf-4659-8492-1fd8f7d1f52e" />
+
 
 ## 🌐 Live Demo
 https://httpsweatherforecast.netlify.app/
